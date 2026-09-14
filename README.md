@@ -1,4 +1,4 @@
-# Hi, I'm Darius 👋
+# Hi, I'm Darius
 
 Aspiring to build at the intersection of finance and tech.
 
