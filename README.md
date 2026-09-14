@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Darius 👋
 
-<!--
-**darius-soh/darius-soh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring to build at the intersection of finance and tech.
 
-Here are some ideas to get you started:
+- 🎓 BSc Information Systems (Financial Technology) at Singapore Management University
+- 💼 Project Management Office Intern @ MariBank
+- 🌱 Currently exploring the space where finance, technology, and product intersect — turning data into decisions
+- 🌐 More about me: [dariussoh.com](https://dariussoh.com)
+- 📫 Reach me at [sohdarius2@gmail.com](mailto:sohdarius2@gmail.com) or [LinkedIn](https://www.linkedin.com/in/darius-sohh/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+`Python` `JavaScript` `MySQL` `HTML` `CSS` `MongoDB` `Node.js` `Figma` `Git` `GitHub`
+
+## 🚀 Featured Project
+
+**[SureBo](https://github.com/darius-soh/surebo)** — AI-powered web app to help users evaluate the credibility of online news content.
+`React` `Vite` `TypeScript` `Node.js` `Pinecone`
+
+## ⚡ Outside of code
+
+Usually found on the tennis court, in the gym, or reading. Always happy to [connect](https://www.linkedin.com/in/darius-sohh/) and learn!
